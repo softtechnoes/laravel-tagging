@@ -17,7 +17,7 @@ class Tagged extends Model
 {
     protected $table = 'tagging_tagged';
     public $timestamps = false;
-    protected $fillable = ['tag_name', 'tag_slug'];
+    protected $fillable = ['tag_name', 'tag_slug','color'];
 
     public function __construct(array $attributes = [])
     {
