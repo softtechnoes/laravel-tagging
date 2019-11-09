@@ -1,4 +1,4 @@
-Laravel Taggable Trait
+Laravel Taggable Trait | Colorful Tags
 ============
 
 [![Latest Stable Version](https://poser.pugx.org/rtconner/laravel-tagging/v/stable.svg)](https://packagist.org/packages/rtconner/laravel-tagging)
@@ -17,7 +17,7 @@ There are no real limits on what characters can be used in a tag. It uses a slug
 #### Composer Install (for Laravel 5+/Lumen 5)
 
 ```shell
-composer require rtconner/laravel-tagging "~3.2"
+composer require softtechnoes/laravel-tagging "~3.2"
 ```
 
 #### Install and then Run the migrations
